@@ -57,8 +57,8 @@ export const languages: Language[] = [
     logo: "/logos/Citron-logo-new.png",
     description:
       "Citron is a funny little language that can do stuff (the hard way.)",
-    website: "https://turbowarp.org/1202695164?offscreen&hqpen&fps=250",
-    discord: "https://discord.gg/gY9JMQYBg7",
+    website: "https://barnaclestudio.itch.io/citron",
+    discord: "https://discord.gg/QRPNEzGGDy",
   },
   {
     name: "indX",
